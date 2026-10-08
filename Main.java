@@ -3,6 +3,7 @@ public class Main {
 		System.out.printl("Hello World!");
 	}
 	
+	//Comment for PR
 	public static void coolVoid(){
 		System.out.println("Really cool void");
 	}
